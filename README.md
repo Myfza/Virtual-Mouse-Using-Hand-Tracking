@@ -69,6 +69,12 @@ Click Detected!
 - Adjust sensitivity by modifying the threshold values in the script.
 - Works best in well-lit environments.
 
-## License
-This project is licensed under the MIT License.
+## 🤝 Contributions
+
+Pull requests are welcome! Feel free to fork and help improve this project!
+
+## 🧑‍💻 Developer
+
+Made by **Muhammad Yusuf Aditiya (Myfza)**  
+🔗 [GitHub](https://github.com/Myfza) | [LinkedIn](https://www.linkedin.com/in/myfza)
 
