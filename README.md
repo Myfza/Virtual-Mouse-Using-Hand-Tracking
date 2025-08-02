@@ -3,7 +3,7 @@
 ## Overview
 This Python script utilizes OpenCV, MediaPipe, and PyAutoGUI to implement a virtual mouse that tracks hand movements via a webcam. It enables cursor movement and clicking using hand gestures.
 
-![Traking Preview](Preview-tracking.png)
+🎥 [Preview Video](preview.mp4)
 
 ## Features
 - Tracks hand movements in real-time using a webcam.
